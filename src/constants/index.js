@@ -28,6 +28,7 @@ import {
   python,
   mysql,
   metalyapi,
+  yapikredi,
   student,
   truck,
   moonflix,
@@ -134,6 +135,18 @@ const experiences = [
       "Collaborating with cross-functional teams including designers and other developers to create high-quality products.",
       "Implementing a great DBMS with MySQL and ensuring scalibility of system.",
       "Participating in code reviews and providing constructive feedback to other developers.",
+    ],
+  },
+  {
+    title: "Software Engineer",
+    company_name: "Yapı Kredi Teknoloji",
+    icon: yapikredi,
+    iconBg: "#FFFFFF",
+    date: "August 2023 - Current",
+    points: [
+      "Developing and maintaining microservice applications using Java Spring Boot, ReactJS, SQL, Oracle and other related technologies.",
+      "Proficient in Agile methodology, contributing to efficient project management and iterative development processes.",
+      "Implementing a great DBMS with Oracle and ensuring scalibility of system.",
     ],
   },
 ];

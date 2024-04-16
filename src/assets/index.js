@@ -33,6 +33,7 @@ import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
 import metalyapi from "./company/metalyapi.jpeg";
+import yapikredi from "./company/yapikredi.png";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
@@ -79,6 +80,7 @@ export {
   mysql,
   python,
   metalyapi,
+  yapikredi,
   moonflix,
   truck,
   student
